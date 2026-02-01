@@ -1,22 +1,8 @@
 <?php
 /*****************************
- *
- * RouterOS PHP API class v1.6
- * Author: Denis Basta
- * Contributors:
- *    Nick Barnes
- *    Ben Menking (ben [at] infotechsc [dot] com)
- *    Jeremy Jefferson (http://jeremyj.com)
- *    Cristian Deluxe (djcristiandeluxe [at] gmail [dot] com)
- *    Mikhail Moskalev (mmv.rus [at] gmail [dot] com)
- *    Israel Marrero
- * http://www.mikrotik.com
- * http://wiki.mikrotik.com/wiki/API_PHP_class
- *
-/*****************************
- * RouterOS PHP API class (Versión optimized 2026)
+ * RouterOS PHP API class (Versión optimized JAN 2026)
  * For php 7.0+
- * Based on Denis Basta works
+ * Based on Denis Basta works, By Israel Marrero
  ***********************************************/
 
 class RouterosAPI
